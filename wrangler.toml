@@ -1,0 +1,6 @@
+name = "taskora"
+main = "src/index.js"
+compatibility_date = "2026-08-25"
+
+[site]
+bucket = "./public"
